@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Grid xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlDemo.Control.SubMenuView"
+      
+             xmlns:ViewModel="clr-namespace:ControlDemo.ViewController"  >
+
+    
+    <Grid.RowDefinitions>
+        <RowDefinition  Height="*"/>
+    </Grid.RowDefinitions>
+
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="2.7*"/>
+        <ColumnDefinition Width="2*"/>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="1*"/>
+    </Grid.ColumnDefinitions>
+    <Image  Grid.Column="0" Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Source="menu_icon.png" HeightRequest="40">
+        <Image.GestureRecognizers>
+            <TapGestureRecognizer Command="{Binding MenuClick}"/>
+        </Image.GestureRecognizers>
+    </Image>
+    <Label Grid.Column="1" Grid.Row="0" HorizontalOptions="Start" HeightRequest="40" Text="Month"  VerticalOptions="End" FontSize="25" FontAttributes="Bold"/>
+    <Image Grid.Column="1" Grid.Row="0" HorizontalOptions="End"   HeightRequest="40"  Source="down_arrow_icon.png" VerticalOptions="Center"/>
+    <Image Grid.Column="3" Grid.Row="0" HorizontalOptions="Center" Source="add_icon.png" HeightRequest="40"/>
+    <Image Grid.Column="4" Grid.Row="0" HorizontalOptions="Center" Source="calender_icon1.png" HeightRequest="40"/>
+    <Image Grid.Column="5" Grid.Row="0" HorizontalOptions="Center" Source="menu_icon1.png" HeightRequest="40"  VerticalOptions="Center"/>
+</Grid>

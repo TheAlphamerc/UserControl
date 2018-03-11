@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\bin\Debug\netstandard2.0\ControlDemo.deps.json
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\bin\Debug\netstandard2.0\ControlDemo.dll
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\bin\Debug\netstandard2.0\ControlDemo.pdb
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.App.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.Control.Blog.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.Control.Calender.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.Control.Contact.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.Control.SubMenuView.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.Control.TTMail.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.Control.View1.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.Control.Workspace.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.dll
+C:\Users\Admin\source\repos\ControlDemo\ControlDemo\ControlDemo\obj\Debug\netstandard2.0\ControlDemo.pdb
